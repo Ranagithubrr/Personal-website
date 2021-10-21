@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+#top{
+    background-image:url(img/header-bg.png);
+    background-size:cover;
+    height: 500px;
+    padding: 60px;
+}
+.half-width {
+    width: 40%;
+    padding: 5%;
+    float: left;
+}
+
+.half-width img {
+    width: 100%;
+    float:left;
+}
+
+.hello {
+    font-size:25px;
+    font-weight:400;
+    padding-top:70px;
+    margin:0;
+}
+.masdurana{
+    color:#ec4c7a;
+    font-weight:700;
+    font-size:45px;
+    padding:0;
+    margin:0;
+}
+.left{
+    padding-left:50px;
+}
+#link{
+    background:#ec4f8f;
+    color:#fff;
+    font-size:16px;
+    font-weight:500;
+    text-transform:uppercase;
+    text-decoration:none;
+    padding: 8px 20px;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+#middle{
+    height: 500px;
+    padding: 20px 20px 120px 20px;
+    background-image:url(img/biography-bg.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.hello2{
+    padding-top:190px;
+}
+
+#work{
+    height: 400px;
+    padding: 20px 20px 20px 20px;
+    background-image:url(img/latest-work-bg.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.sec-head{
+    font-weight:600;
+    font-size:30px;
+    text-align:center;
+}
+.work-img{
+    width:100%;
+}
+.work-area{
+    padding: 0 20px;
+}
+.work-area .works{
+    width:31%;
+    float:left;
+    padding:1%;
+}
+
+#client{
+    text-align:center;
+    padding: 20px 20px 50px 20px;
+}
+.bruce{
+    font-size:14px;
+    margin:0;
+}
+.smallpara{
+    font-size:12px;
+}
+.texts{
+    width:30%;
+    margin:0 auto;
+}
+.email-area{
+    background:linear-gradient(to right,#ec4f91, #ed4b73);
+    width:500px;
+    height:100px;
+    margin:30px auto;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+    color:white;
+}
+.para-msg{
+    padding-top:20px;
+    font-size:13px;
+}
+.mail{
+    text-decoration:none;
+    color:white;
+    font-weight:500;
+    margin:0;
+}
+.foot{
+    display:block;
+    font-size:12px;
+    text-align:center;
+    color:grey;
+}
